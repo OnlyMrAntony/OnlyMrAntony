@@ -2,6 +2,8 @@
 ## Hello! I am a 1st year **Computer Engineering** student at UC Irvine!
 
 #### Check me out at my [Linkedin](https://www.linkedin.com/in/anthony-heang/) and here is my [resume!](https://drive.google.com/file/d/1iXhO_7X00mrbhIvEj0kw1U9MuLnHmxTi/view?usp=sharing)
+
+I love working with both hardware and software! I am very interested in topics that bridge the two subjects such as embedded systems and firmware. I also have a great interest in PCB design, software, hardware, and full-stack web development. I believe that websites
 <!--
 **OnlyMrAntony/OnlyMrAntony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
