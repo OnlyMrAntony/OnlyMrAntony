@@ -1,5 +1,7 @@
-## Hi there 👋
 
+## Hello! I am a 1st year **Computer Engineering** student at UC Irvine!
+
+#### Check me out at my [Linkedin](https://www.linkedin.com/in/anthony-heang/) and here is my [resume!](https://drive.google.com/file/d/1iXhO_7X00mrbhIvEj0kw1U9MuLnHmxTi/view?usp=sharing)
 <!--
 **OnlyMrAntony/OnlyMrAntony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
