@@ -1,3 +1,5 @@
+<img width="1584" height="398" alt="Full-Stack Engineer   Developer" src="https://github.com/user-attachments/assets/96fae443-664f-43a2-9791-7352d69a2c27" />
+
 
 ## Hello! I am a 1st year **Computer Engineering** student at UC Irvine!
 
